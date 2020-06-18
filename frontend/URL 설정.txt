@@ -1,0 +1,17 @@
+'/' Home
+
+'/login' login
+'/logout' logout
+'/signup' signup
+
+'/community'
+/community/post 글쓰기
+/community/id 글 조회 + 댓글 
+/community/id/update 글 수정
+/community/id/delete 글 삭제
+
+/movies/ 영화 목록
+/movie/id 영화 상세조회 + 좋아요 버튼(주소연결)
+/movie/id/reviews 영화 리뷰 목록
+/movie/id/review/review_id 리뷰 상세조회
+/movie/id/review/review_id/update  or /delete

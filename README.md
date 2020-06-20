@@ -64,7 +64,7 @@
 
 #### 3. 데이터베이스 모델링(ERD)
 
-![DB ERD](DB ERD.png)
+![DB ERD](DB ERD.jpg)
 
 
 
